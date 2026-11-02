@@ -1,0 +1,4 @@
+# Verified runtime versions in the development environment.
+PySide6==6.11.1
+numpy==2.3.4
+

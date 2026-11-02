@@ -1,0 +1,1666 @@
+('C:\\Users\\Ryzen '
+ '1600\\Documents\\ChatGPT\\probs\\build\\probability_of_us\\PYZ-00.pyz',
+ [('PySide6',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\PySide6\\__init__.py',
+   'PYMODULE-1'),
+  ('PySide6.support',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\PySide6\\support\\__init__.py',
+   'PYMODULE-1'),
+  ('PySide6.support.deprecated',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\PySide6\\support\\deprecated.py',
+   'PYMODULE-1'),
+  ('__future__',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE-1'),
+  ('_aix_support',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_aix_support.py',
+   'PYMODULE-1'),
+  ('_colorize',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE-1'),
+  ('_compat_pickle',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE-1'),
+  ('_compression',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE-1'),
+  ('_ios_support',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_ios_support.py',
+   'PYMODULE-1'),
+  ('_opcode_metadata',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE-1'),
+  ('_py_abc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE-1'),
+  ('_pydatetime',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE-1'),
+  ('_pydecimal',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE-1'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE-1'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE-1'),
+  ('_pyrepl',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE-1'),
+  ('_pyrepl.pager',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE-1'),
+  ('_strptime',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE-1'),
+  ('_threading_local',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE-1'),
+  ('argparse',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE-1'),
+  ('ast',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE-1'),
+  ('asyncio',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\__init__.py',
+   'PYMODULE-1'),
+  ('asyncio.base_events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_events.py',
+   'PYMODULE-1'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE-1'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE-1'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE-1'),
+  ('asyncio.constants',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\constants.py',
+   'PYMODULE-1'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE-1'),
+  ('asyncio.events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\events.py',
+   'PYMODULE-1'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE-1'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE-1'),
+  ('asyncio.futures',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\futures.py',
+   'PYMODULE-1'),
+  ('asyncio.locks',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\locks.py',
+   'PYMODULE-1'),
+  ('asyncio.log',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\log.py',
+   'PYMODULE-1'),
+  ('asyncio.mixins',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\mixins.py',
+   'PYMODULE-1'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE-1'),
+  ('asyncio.protocols',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\protocols.py',
+   'PYMODULE-1'),
+  ('asyncio.queues',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\queues.py',
+   'PYMODULE-1'),
+  ('asyncio.runners',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\runners.py',
+   'PYMODULE-1'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE-1'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE-1'),
+  ('asyncio.staggered',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\staggered.py',
+   'PYMODULE-1'),
+  ('asyncio.streams',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\streams.py',
+   'PYMODULE-1'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE-1'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE-1'),
+  ('asyncio.tasks',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\tasks.py',
+   'PYMODULE-1'),
+  ('asyncio.threads',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\threads.py',
+   'PYMODULE-1'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE-1'),
+  ('asyncio.transports',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\transports.py',
+   'PYMODULE-1'),
+  ('asyncio.trsock',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\trsock.py',
+   'PYMODULE-1'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE-1'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE-1'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE-1'),
+  ('base64',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE-1'),
+  ('bdb',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bdb.py',
+   'PYMODULE-1'),
+  ('bisect',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE-1'),
+  ('bz2',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE-1'),
+  ('calendar',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE-1'),
+  ('cmd',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\cmd.py',
+   'PYMODULE-1'),
+  ('code',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE-1'),
+  ('codeop',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE-1'),
+  ('concurrent',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py',
+   'PYMODULE-1'),
+  ('concurrent.futures',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE-1'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE-1'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE-1'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE-1'),
+  ('contextlib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE-1'),
+  ('contextvars',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE-1'),
+  ('copy',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE-1'),
+  ('csv',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE-1'),
+  ('ctypes',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE-1'),
+  ('ctypes._aix',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE-1'),
+  ('ctypes._endian',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE-1'),
+  ('ctypes.macholib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE-1'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE-1'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE-1'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE-1'),
+  ('ctypes.util',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE-1'),
+  ('dataclasses',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE-1'),
+  ('datetime',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE-1'),
+  ('decimal',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE-1'),
+  ('difflib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\difflib.py',
+   'PYMODULE-1'),
+  ('dis',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE-1'),
+  ('doctest',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\doctest.py',
+   'PYMODULE-1'),
+  ('email',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE-1'),
+  ('email._encoded_words',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE-1'),
+  ('email._header_value_parser',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE-1'),
+  ('email._parseaddr',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE-1'),
+  ('email._policybase',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE-1'),
+  ('email.base64mime',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE-1'),
+  ('email.charset',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE-1'),
+  ('email.contentmanager',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE-1'),
+  ('email.encoders',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE-1'),
+  ('email.errors',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE-1'),
+  ('email.feedparser',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE-1'),
+  ('email.generator',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE-1'),
+  ('email.header',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE-1'),
+  ('email.headerregistry',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE-1'),
+  ('email.iterators',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE-1'),
+  ('email.message',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE-1'),
+  ('email.parser',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE-1'),
+  ('email.policy',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE-1'),
+  ('email.quoprimime',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE-1'),
+  ('email.utils',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE-1'),
+  ('fileinput',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fileinput.py',
+   'PYMODULE-1'),
+  ('fnmatch',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE-1'),
+  ('fractions',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE-1'),
+  ('ftplib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE-1'),
+  ('getopt',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE-1'),
+  ('getpass',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE-1'),
+  ('gettext',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE-1'),
+  ('glob',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE-1'),
+  ('gzip',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE-1'),
+  ('hashlib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE-1'),
+  ('hmac',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hmac.py',
+   'PYMODULE-1'),
+  ('html',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\__init__.py',
+   'PYMODULE-1'),
+  ('html.entities',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\entities.py',
+   'PYMODULE-1'),
+  ('http',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE-1'),
+  ('http.client',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE-1'),
+  ('http.cookiejar',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE-1'),
+  ('http.server',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\server.py',
+   'PYMODULE-1'),
+  ('importlib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE-1'),
+  ('importlib._abc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE-1'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE-1'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE-1'),
+  ('importlib.abc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE-1'),
+  ('importlib.machinery',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE-1'),
+  ('importlib.metadata',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE-1'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE-1'),
+  ('importlib.readers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE-1'),
+  ('importlib.resources',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE-1'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE-1'),
+  ('importlib.resources._common',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE-1'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE-1'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE-1'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE-1'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE-1'),
+  ('importlib.util',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE-1'),
+  ('inspect',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE-1'),
+  ('ipaddress',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE-1'),
+  ('json',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE-1'),
+  ('json.decoder',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE-1'),
+  ('json.encoder',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE-1'),
+  ('json.scanner',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE-1'),
+  ('logging',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE-1'),
+  ('lzma',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE-1'),
+  ('mimetypes',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE-1'),
+  ('multiprocessing',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE-1'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE-1'),
+  ('multiprocessing.context',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\context.py',
+   'PYMODULE-1'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE-1'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE-1'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE-1'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE-1'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE-1'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE-1'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE-1'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE-1'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE-1'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE-1'),
+  ('multiprocessing.process',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\process.py',
+   'PYMODULE-1'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE-1'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE-1'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE-1'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE-1'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE-1'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE-1'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE-1'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE-1'),
+  ('multiprocessing.util',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\util.py',
+   'PYMODULE-1'),
+  ('netrc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE-1'),
+  ('nturl2path',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE-1'),
+  ('numbers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE-1'),
+  ('numpy',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.__config__',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE-1'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE-1'),
+  ('numpy._core',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE-1'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE-1'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE-1'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE-1'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE-1'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE-1'),
+  ('numpy._core._internal',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE-1'),
+  ('numpy._core._machar',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE-1'),
+  ('numpy._core._methods',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE-1'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE-1'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE-1'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE-1'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE-1'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE-1'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE-1'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE-1'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE-1'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE-1'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE-1'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE-1'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE-1'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE-1'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE-1'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE-1'),
+  ('numpy._core.records',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE-1'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE-1'),
+  ('numpy._core.strings',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE-1'),
+  ('numpy._core.umath',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE-1'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE-1'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE-1'),
+  ('numpy._globals',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE-1'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE-1'),
+  ('numpy._typing',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE-1'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE-1'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE-1'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE-1'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE-1'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE-1'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE-1'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE-1'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE-1'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE-1'),
+  ('numpy._utils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE-1'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE-1'),
+  ('numpy.char',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.core',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.core._utils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE-1'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE-1'),
+  ('numpy.dtypes',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE-1'),
+  ('numpy.exceptions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE-1'),
+  ('numpy.f2py',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE-1'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE-1'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE-1'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE-1'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE-1'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE-1'),
+  ('numpy.fft',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE-1'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE-1'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE-1'),
+  ('numpy.lib',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE-1'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE-1'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE-1'),
+  ('numpy.lib._version',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE-1'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE-1'),
+  ('numpy.lib.format',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE-1'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE-1'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE-1'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE-1'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE-1'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE-1'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE-1'),
+  ('numpy.linalg',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE-1'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE-1'),
+  ('numpy.ma',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.ma.core',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE-1'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE-1'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE-1'),
+  ('numpy.matlib',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE-1'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE-1'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE-1'),
+  ('numpy.random',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE-1'),
+  ('numpy.rec',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.strings',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.testing',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.testing._private',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE-1'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE-1'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE-1'),
+  ('numpy.typing',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE-1'),
+  ('numpy.version',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE-1'),
+  ('opcode',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE-1'),
+  ('pathlib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE-1'),
+  ('pathlib._abc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE-1'),
+  ('pathlib._local',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE-1'),
+  ('pdb',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pdb.py',
+   'PYMODULE-1'),
+  ('pickle',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE-1'),
+  ('pkgutil',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE-1'),
+  ('platform',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE-1'),
+  ('pprint',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE-1'),
+  ('probability_of_us',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.application',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\application\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.application.app_controller',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\application\\app_controller.py',
+   'PYMODULE-1'),
+  ('probability_of_us.data',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\data\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.data.datasets',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\data\\datasets.py',
+   'PYMODULE-1'),
+  ('probability_of_us.data.default_dataset',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\data\\default_dataset.py',
+   'PYMODULE-1'),
+  ('probability_of_us.domain',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\domain\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.domain.models',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\domain\\models.py',
+   'PYMODULE-1'),
+  ('probability_of_us.main',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\main.py',
+   'PYMODULE-1'),
+  ('probability_of_us.security',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\security\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.security.exports',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\security\\exports.py',
+   'PYMODULE-1'),
+  ('probability_of_us.statistics',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\statistics\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.statistics.demography',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\statistics\\demography.py',
+   'PYMODULE-1'),
+  ('probability_of_us.statistics.probability',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\statistics\\probability.py',
+   'PYMODULE-1'),
+  ('probability_of_us.statistics.simulation',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\statistics\\simulation.py',
+   'PYMODULE-1'),
+  ('probability_of_us.statistics.story_model',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\statistics\\story_model.py',
+   'PYMODULE-1'),
+  ('probability_of_us.storage',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\storage\\__init__.py',
+   'PYMODULE-1'),
+  ('probability_of_us.storage.repository',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\src\\probability_of_us\\storage\\repository.py',
+   'PYMODULE-1'),
+  ('py_compile',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE-1'),
+  ('pydoc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py',
+   'PYMODULE-1'),
+  ('pydoc_data',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE-1'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE-1'),
+  ('queue',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE-1'),
+  ('quopri',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE-1'),
+  ('random',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE-1'),
+  ('rlcompleter',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\rlcompleter.py',
+   'PYMODULE-1'),
+  ('runpy',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\runpy.py',
+   'PYMODULE-1'),
+  ('secrets',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\secrets.py',
+   'PYMODULE-1'),
+  ('selectors',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE-1'),
+  ('shiboken6',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\shiboken6\\__init__.py',
+   'PYMODULE-1'),
+  ('shlex',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shlex.py',
+   'PYMODULE-1'),
+  ('shutil',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE-1'),
+  ('signal',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE-1'),
+  ('socket',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE-1'),
+  ('socketserver',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socketserver.py',
+   'PYMODULE-1'),
+  ('sqlite3',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE-1'),
+  ('sqlite3.__main__',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE-1'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE-1'),
+  ('sqlite3.dump',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dump.py',
+   'PYMODULE-1'),
+  ('ssl',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE-1'),
+  ('statistics',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE-1'),
+  ('string',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE-1'),
+  ('stringprep',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE-1'),
+  ('subprocess',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE-1'),
+  ('sysconfig',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE-1'),
+  ('tarfile',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE-1'),
+  ('tempfile',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE-1'),
+  ('textwrap',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE-1'),
+  ('threading',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE-1'),
+  ('token',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE-1'),
+  ('tokenize',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE-1'),
+  ('tracemalloc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE-1'),
+  ('tty',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tty.py',
+   'PYMODULE-1'),
+  ('typing',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE-1'),
+  ('typing_extensions',
+   'C:\\Users\\Ryzen '
+   '1600\\Documents\\ChatGPT\\probs\\.test-tmp\\clean-env\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE-1'),
+  ('unittest',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\__init__.py',
+   'PYMODULE-1'),
+  ('unittest._log',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\_log.py',
+   'PYMODULE-1'),
+  ('unittest.async_case',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\async_case.py',
+   'PYMODULE-1'),
+  ('unittest.case',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\case.py',
+   'PYMODULE-1'),
+  ('unittest.loader',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\loader.py',
+   'PYMODULE-1'),
+  ('unittest.main',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\main.py',
+   'PYMODULE-1'),
+  ('unittest.result',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\result.py',
+   'PYMODULE-1'),
+  ('unittest.runner',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\runner.py',
+   'PYMODULE-1'),
+  ('unittest.signals',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\signals.py',
+   'PYMODULE-1'),
+  ('unittest.suite',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\suite.py',
+   'PYMODULE-1'),
+  ('unittest.util',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\util.py',
+   'PYMODULE-1'),
+  ('urllib',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE-1'),
+  ('urllib.error',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE-1'),
+  ('urllib.parse',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE-1'),
+  ('urllib.request',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE-1'),
+  ('urllib.response',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE-1'),
+  ('uuid',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\uuid.py',
+   'PYMODULE-1'),
+  ('webbrowser',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
+   'PYMODULE-1'),
+  ('xml',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\__init__.py',
+   'PYMODULE-1'),
+  ('xml.parsers',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE-1'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE-1'),
+  ('xml.sax',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE-1'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE-1'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE-1'),
+  ('xml.sax.handler',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE-1'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE-1'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE-1'),
+  ('xmlrpc',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE-1'),
+  ('xmlrpc.client',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\client.py',
+   'PYMODULE-1'),
+  ('zipfile',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE-1'),
+  ('zipfile._path',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE-1'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE-1'),
+  ('zipimport',
+   'C:\\Users\\Ryzen '
+   '1600\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE-1')])

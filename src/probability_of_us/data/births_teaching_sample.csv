@@ -1,0 +1,17 @@
+country_code,country_name,continent,year,births
+HUN,Hungary,Europe,2015,40
+AUT,Austria,Europe,2015,35
+USA,United States,North America,2015,100
+HUN,Hungary,Europe,2016,44
+AUT,Austria,Europe,2016,36
+USA,United States,North America,2016,105
+HUN,Hungary,Europe,2017,42
+AUT,Austria,Europe,2017,38
+USA,United States,North America,2017,110
+HUN,Hungary,Europe,2018,39
+AUT,Austria,Europe,2018,40
+USA,United States,North America,2018,115
+HUN,Hungary,Europe,2019,37
+AUT,Austria,Europe,2019,41
+USA,United States,North America,2019,120
+
